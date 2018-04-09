@@ -52,12 +52,12 @@ public class Grille extends JPanel{
         
     }
 
-    @Override
-    protected void paintComponent(Graphics g) {
-        super.paintComponent(g);
-        
-        //g.fillRect(0, 0, 200, 200);
-    }
+//    @Override
+//    protected void paintComponent(Graphics g) {
+//        super.paintComponent(g);
+//        
+//        g.fillRect(0, 0, 200, 200);
+//    }
     
     
 }
